@@ -9,7 +9,7 @@ This program takes in spectral imagery of corn fields and soybean fields and per
 * Utilizes a neural network to calssify the images
 * Creates datasets for corn and soybean imagery with labels
 * Creates dataloaders of the datasets
-* Implements a model that takens in the data, flattens it, linearly transforms it and uses the ReLU activation function
+* Implements a model that takes in the data, flattens it, linearly transforms it and uses the ReLU activation function
 * Performs training and testing loops, using SGD for optimization
 * Outputs the training and testing data
 
