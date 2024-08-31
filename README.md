@@ -27,8 +27,9 @@ This program takes in spectral imagery of corn fields and soybean fields and per
 * Obtains roughly a 92% accuracy of determining the type of field
 
 ### Data Used:
-* The data used was SENTINEL2 (Bands: Green, Red, and Near Infrared) taken on July 13th, 2023
-* I created the individual images by ..................
+* The data used was SENTINEL2 (Bands: Green, Red, and Near Infrared) taken on July 13th, 2023.
+* I created the individual images by collecting Sentinel2 imagery and using 
+  crop field boundaries (USDA Crop Sequence Boundaries) to create 1140 images.
 
 ### Other Strategies:
 Used only the Red and NIR bands to create a dataset that has the simple vegetation index, which resulted in roughly 91% accuracy
