@@ -14,7 +14,7 @@ This program takes in spectral imagery of corn fields and soybean fields and per
 * Outputs the training and testing data
 
 ### Input:
-* Images are of fields with an area larger than 100 square meters????
+* Images are of fields with an area larger than 100 square meters
 * 1140 tif images of SENTIEL2 spectral imagery (Bands: Green, Red, and Near InfraRed)
 * Band Order: NIR, Red, Green
 * 610 are images of corn fields
